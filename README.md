@@ -22,8 +22,6 @@ https://github.com/peimelo/transactions-typeorm
 
 ---
 
-https://api.github.com/repos/peimelo/github-explorer
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
